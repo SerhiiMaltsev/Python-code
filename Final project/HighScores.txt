@@ -1,0 +1,10 @@
+Top 1: 400
+Top 2: 390
+Top 3: 150
+Top 4: 80
+Top 5: 50
+Top 6: 20
+Top 7: 10
+Top 8: 0
+Top 9: 0
+Top 10: 0
